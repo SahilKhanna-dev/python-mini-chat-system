@@ -1,2 +1,16 @@
-# python-mini-chat-system
-A simple Python console chatroom project demonstrating classes, objects, messages, users, and activity logs.
+# Mini Chat System
+
+A basic console-based chatroom system built with Python and OOP concepts.
+
+## Features
+
+* Create users
+* Join and leave chatroom
+* Send messages
+* View message history
+* View activity log
+* View members
+
+## Run
+
+python main.py
